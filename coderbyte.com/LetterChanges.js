@@ -9,7 +9,6 @@ Then capitalize every vowel in this new string (a, e, i, o, u) and finally retur
 Input:"hello*3"
 Output:"Ifmmp*3"
 
-
 Input:"fun times!"
 Output:"gvO Ujnft!"
 */

@@ -8,7 +8,6 @@ Words will be separated by only one space.
 Input:"hello world"
 Output:"Hello World"
 
-
 Input:"i ran there"
 Output:"I Ran There"
 */

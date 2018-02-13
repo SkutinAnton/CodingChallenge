@@ -15,12 +15,8 @@ Output: "0:45"
 
 
 function TimeConvert(num) {
-    let hours = 0;
+    let hours =  Math.floor(num / 60);
+    let minutes = num - (hours * 60);
 
-    while (num >= 60) {
-        num -= 60;
-        hours++;
-    }
-
-    return `${hours}:${num}`;
+    return `${hours}:${minutes}`;
 }

@@ -6,11 +6,11 @@ If there are two or more words that are the same length, return the first word f
 Ignore punctuation and assume sen will not be empty.
 
 
-Input:"fun&!! time"
-Output:"time"
+Input: "fun&!! time"
+Output: "time"
 
-Input:"I love dogs"
-Output:"love"
+Input: "I love dogs"
+Output: "love"
 */
 
 

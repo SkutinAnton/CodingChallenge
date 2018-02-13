@@ -6,11 +6,11 @@ Replace every letter in the string with the letter following it in the alphabet 
 Then capitalize every vowel in this new string (a, e, i, o, u) and finally return this modified string.
 
 
-Input:"hello*3"
-Output:"Ifmmp*3"
+Input: "hello*3"
+Output: "Ifmmp*3"
 
-Input:"fun times!"
-Output:"gvO Ujnft!"
+Input: "fun times!"
+Output: "gvO Ujnft!"
 */
 
 

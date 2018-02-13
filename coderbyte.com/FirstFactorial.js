@@ -5,11 +5,11 @@ Have the function FirstFactorial(num) take the num parameter being passed and re
 For the test cases, the range will be between 1 and 18 and the input will always be an integer.
 
 
-Input:4
-Output:24
+Input: 4
+Output: 24
 
-Input:8
-Output:40320
+Input: 8
+Output: 40320
 */
 
 

@@ -5,11 +5,11 @@ Have the function LetterCapitalize(str) take the str parameter being passed and 
 Words will be separated by only one space.
 
 
-Input:"hello world"
-Output:"Hello World"
+Input: "hello world"
+Output: "Hello World"
 
-Input:"i ran there"
-Output:"I Ran There"
+Input: "i ran there"
+Output: "I Ran There"
 */
 
 

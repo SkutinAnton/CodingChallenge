@@ -17,15 +17,5 @@ time = 11.8  --> litres = 5
 
 
 function litres(time) {
-    if (time < 2) {
-        return 0;
-    }
-
-    let litres = 0;
-
-    while (time >= 1) {
-        time--;
-        litres += 0.5;
-    }
-    return Math.floor(litres);
+    return Math.floor(time * 0.5);
 }

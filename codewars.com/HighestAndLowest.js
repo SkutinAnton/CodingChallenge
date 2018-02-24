@@ -6,11 +6,11 @@ and have to return the highest and lowest number.
 
 
 Examples:
-highAndLow("1 2 3 4 5");              return "5 1"
+highAndLow("1 2 3 4 5")              return "5 1"
 
-highAndLow("1 2 -3 4 5");             return "5 -3"
+highAndLow("1 2 -3 4 5")             return "5 -3"
 
-highAndLow("4 5 -214 542 -64 -6");    return "542 -214"
+highAndLow("4 5 -214 542 -64 -6")    return "542 -214"
 */
 
 

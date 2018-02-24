@@ -7,11 +7,11 @@ The input string will only consist of lower case letters and/or spaces.
 
 
 Examples:
-getCount("abracadabra") return 5
+getCount("abracadabra")   return "5"
 
-getCount("pear tree") return 4
+getCount("pear tree")     return "4"
 
-getCount("my pyx") return 0
+getCount("my pyx")        return "0"
 */
 
 

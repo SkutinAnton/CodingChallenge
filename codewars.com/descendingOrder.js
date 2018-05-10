@@ -6,11 +6,11 @@ its digits in descending order. Essentially, rearrange the digits to create the 
 
 
 Examples:
-descendingOrder(21445)        returns 54421
+descendingOrder(21445)         returns 54421
 
-descendingOrder(145263)       returns 654321
+descendingOrder(145263)        returns 654321
 
-descendingOrder(1254859723)   returns 9875543221
+descendingOrder(1254859723)    returns 9875543221
 */
 
 
